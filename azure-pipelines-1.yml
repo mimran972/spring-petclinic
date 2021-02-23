@@ -20,4 +20,4 @@ jobs:
     name:  DIRQA
     resourceType: VirtualMachine
     resourceName: myqawebsvr
-    tags: web
+    
